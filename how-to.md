@@ -1,5 +1,5 @@
 #第一步：建立服務
-<script src="https://gist.github.com/popovich0822/038442d56774309219b7e3dbeb4cb798.js"></script>
+{%gist 038442d56774309219b7e3dbeb4cb798%}
 
 #第二步：撰寫一支 directive 監測 route 轉換，並在此檢查表單狀態
 <script src="https://gist.github.com/popovich0822/038442d56774309219b7e3dbeb4cb798.js"></script>
